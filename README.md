@@ -15,4 +15,8 @@ O desafio é simples: criar um aplicativo que acesse um JSON (`content.json`) e 
 Você deve realizar o desafio e enviar o código para o talentos@app2sales.com.br com sua identificação.
 Você deve explicar ds decisões que tomou, para evidenciar como devemos avaliar o trabalho feito.
 
+## Disclaimer
+
+Esse desafio é progressivo em sua complexidade, ou seja, ele parece ser simples, mas conforme você vai se aprodunando nele vê que pode ser mais complexo. Desse modo, você vai conseguir mostrar bem suas habilidades seja você um dev pleno ou um sênior.
+
 Boa sorte!

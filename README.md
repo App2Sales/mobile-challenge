@@ -7,7 +7,7 @@ O desafio é simples criar um aplicativo que acesse um JSON (`content.json`) e m
 - O aplicativo deve funcinar para Android ou iOS
 
 ## Extras:
-- Utilizar animações para abertura dos conteúso
+- Utilizar animações para abertura dos conteúdo
 - Fazer com que as mídias se integrem com API nativas dos sistemas operacionais. Ex.: permitir que o áudio seja controlado com a tela do celular travada
 - Tocar vídeos criptografados de modo lazy loaded (não está incluído no JSON de content)
 
